@@ -33,3 +33,6 @@ def main():
     turt = turtle.Turtle()
     move_turtle(turt, dirs)
     turtle.done()
+
+if __name__ == "__main__":
+    main()
